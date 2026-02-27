@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "projectId": "FLGMwt/gha-playground",
-  "branchName": "FLGMwt/gha-playground-CodeWaggle",
-  "remoteUrl": "git@github.com:FLGMwt/codewaggle-test.git",
+  "projectName": "gha-playground",
+  "repoUrl": "git@github.com:FLGMwt/gha-playground.git",
   "defaultCommentPrefix": "NOTE",
   "autoSync": true,
   "pullThrottleMinutes": 1,
-  "createdAt": "2026-02-27T00:13:31.579Z",
-  "updatedAt": "2026-02-27T00:13:31.579Z"
+  "createdAt": "2026-02-27T00:13:28.020Z",
+  "updatedAt": "2026-02-27T00:13:28.020Z",
+  "remoteSyncEnabled": false
 }
